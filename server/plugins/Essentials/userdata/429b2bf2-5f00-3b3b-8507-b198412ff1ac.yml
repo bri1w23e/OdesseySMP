@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1766991419643
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1766992615533
+  login: 1766991341853
+money: '0'
+last-account-name: feminine_fellow
+logoutlocation:
+  world: 0287afd3-cc48-4e07-96f8-06b2585d811b
+  world-name: world
+  x: -5643.953752503397
+  y: 66.76683680532518
+  z: 1716.1318089419105
+  yaw: -165.647216796875
+  pitch: 22.800004959106445
+lastlocation:
+  world: 0287afd3-cc48-4e07-96f8-06b2585d811b
+  world-name: world
+  x: -20.30000001192093
+  y: 72.25683049031633
+  z: -2.5158737687723525
+  yaw: -89.69992065429688
+  pitch: 17.699987411499023

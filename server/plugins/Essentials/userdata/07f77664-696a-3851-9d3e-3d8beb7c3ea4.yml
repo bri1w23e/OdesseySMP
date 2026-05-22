@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1770352303782
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1770357498090
+  login: 1770356274580
+money: '0'
+logoutlocation:
+  world: dac8053b-c7c1-4eca-968d-3979da363a1a
+  world-name: Plots
+  x: -53.30464589635113
+  y: 69.16915075718175
+  z: -64.72828123821378
+  yaw: 86.591552734375
+  pitch: 28.47608757019043
+last-account-name: Yimo_HT6
+lastlocation:
+  world: dac8053b-c7c1-4eca-968d-3979da363a1a
+  world-name: Plots
+  x: -156.4094478873187
+  y: 78.99496536845758
+  z: -5.617880542223616
+  yaw: 117.29430389404297
+  pitch: 31.908769607543945
